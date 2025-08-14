@@ -9,12 +9,6 @@
 Полный код проекта представлен в папке "AIS".
 Больше информации о проекте можно найти в файле "Description".
 
-Автор выражает благодарность сайту controllerstech, 
-а также следующим пользователям GitHub:
-1. vadrov (https://github.com/vadrov/stm32-button-nobounce-autorepeat-buffer)
-2. kiwih (https://github.com/kiwih/cubeide-sd-card)
-3. nickit94 (https://github.com/nickit94/oled-ssd1306-sh1106-stm32-hal)
-
 
 (EN)
 Brief description of the project:
