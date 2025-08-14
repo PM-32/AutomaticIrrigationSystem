@@ -1,0 +1,13 @@
+../FATFS/Target/user_diskio_spi.c:79:13:set_sd_interface_speed	2
+../FATFS/Target/user_diskio_spi.c:88:13:spi_rw	3
+../FATFS/Target/user_diskio_spi.c:102:6:HAL_SPI_TxRxCpltCallback	2
+../FATFS/Target/user_diskio_spi.c:116:13:SPI_DMA_TransmitReceive	6
+../FATFS/Target/user_diskio_spi.c:169:13:wait_ready	2
+../FATFS/Target/user_diskio_spi.c:179:13:send_cmd	9
+../FATFS/Target/user_diskio_spi.c:218:9:USER_SPI_initialize	16
+../FATFS/Target/user_diskio_spi.c:295:9:USER_SPI_status	1
+../FATFS/Target/user_diskio_spi.c:301:16:rcvr_datablock	3
+../FATFS/Target/user_diskio_spi.c:337:9:USER_SPI_read	10
+../FATFS/Target/user_diskio_spi.c:370:16:xmit_datablock	4
+../FATFS/Target/user_diskio_spi.c:406:9:USER_SPI_write	13
+../FATFS/Target/user_diskio_spi.c:439:9:USER_SPI_ioctl	30
