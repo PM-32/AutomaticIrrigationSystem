@@ -1,6 +1,6 @@
 (RU)
 Краткое описание проекта:
-Система автоматического полива домашних растений на базе STM32F401CCU6.
+система автоматического полива домашних растений на базе STM32F401CCU6.
 Она позволяет осуществлять своевременный полив на основе установленных 
 пользователем настроек, в числе которых время начала полива, 
 продолжительность полива и дни недели, в которые должен выполняться полив.
@@ -18,7 +18,7 @@
 
 (EN)
 Brief description of the project:
-Automatic irrigation system for house plants based on STM32F401CCU6.
+automatic irrigation system for house plants based on STM32F401CCU6.
 It allows timely watering based on the settings set by the user, including the start time of watering,
 the duration of watering and the days of the week on which watering should be performed.
 
