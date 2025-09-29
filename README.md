@@ -27,3 +27,5 @@ as well as the following GitHub users:
 1. vadrov (https://github.com/vadrov/stm32-button-nobounce-autorepeat-buffer)
 2. kiwih (https://github.com/kiwih/cubeide-sd-card)
 3. nickit94 (https://github.com/nickit94/oled-ssd1306-sh1106-stm32-hal)
+
+![AIS_Pic](https://github.com/user-attachments/assets/a6a9a9de-1507-45c7-9484-ceebf40a64c7)
